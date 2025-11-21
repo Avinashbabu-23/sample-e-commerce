@@ -7,7 +7,7 @@ Here's a sample of a mobile-responsive e-commerce website using HTML, CSS, JavaS
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/knighthood-18/E-Commerce-Website.git
+git clone https://github.com/Avinashbabu-23/sample-e-commerce.git
 ```
 
 - Create a branch
